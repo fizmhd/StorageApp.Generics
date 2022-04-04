@@ -1,7 +1,9 @@
-﻿namespace WiredBrainCoffee.StorageApp.Entities
+﻿using StorageApp.Entities;
+
+namespace StorageApp.Entities
 {
-  public class EntityBase : IEntity
-  {
-    public int Id { get; set; }
-  }
+    public class EntityBase : IEntity
+    {
+        public int Id { get; set; }
+    }
 }

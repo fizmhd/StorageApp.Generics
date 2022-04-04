@@ -1,9 +1,9 @@
-﻿namespace WiredBrainCoffee.StorageApp.Entities
+﻿namespace StorageApp.Entities
 {
-  public class Employee : EntityBase
-  {
-    public string? FirstName { get; set; }
+    public class Employee : EntityBase
+    {
+        public string? FirstName { get; set; }
 
-    public override string ToString() => $"Id: {Id}, FirstName: {FirstName}";
-  }
+        public override string ToString() => $"Id: {Id}, FirstName: {FirstName}";
+    }
 }

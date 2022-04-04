@@ -1,4 +1,4 @@
-﻿namespace WiredBrainCoffee.StorageApp.Entities
+﻿namespace StorageApp.Entities
 {
   public interface IEntity
   {
