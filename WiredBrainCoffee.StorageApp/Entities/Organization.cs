@@ -1,6 +1,6 @@
 ﻿using StorageApp.Entities;
 
-namespace WiredBrainCoffee.StorageApp.Entities
+namespace StorageApp.Entities
 {
     public class Organization : EntityBase
   {

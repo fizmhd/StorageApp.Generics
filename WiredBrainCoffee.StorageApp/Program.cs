@@ -1,7 +1,6 @@
 ﻿using StorageApp.Entities;
 using StorageApp.Repositories;
 using System;
-using WiredBrainCoffee.StorageApp.Entities;
 
 namespace StorageApp
 {
